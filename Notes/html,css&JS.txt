@@ -1,0 +1,3 @@
+HTML -- Foundation 
+CSS -- Appearance
+JS -- Interaction/ Functionality

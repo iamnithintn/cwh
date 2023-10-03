@@ -1,0 +1,9 @@
+1. Client --  Us users
+2. Server -- Where all the info stays 
+3. Browser -- Where the client access the information
+
+
+So whent the client/end user searches something on the internet we use the browser and what this browser does is, it 
+sends a request to the server lets say the client wants to use instagram and searches for instagram, so the browser
+requests the instagram server through an api and if the server accepts the client gets to use instagram.
+
